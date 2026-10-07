@@ -1,0 +1,15 @@
+{
+  "spiral": "C:/path/to/your/spiral_loop_1080x1920.mp4",
+  "cutouts": [
+    "C:/path/to/cutout_1.png",
+    "C:/path/to/cutout_2.png",
+    "C:/path/to/cutout_3.png",
+    "C:/path/to/cutout_4.png"
+  ],
+  "audio": "C:/path/to/drone_hits_20s.wav",
+  "theme": "pink",
+  "palette": "purple",
+  "lines": [["look at the centre", -60, 220], ["breathe out", 150, 420], ["slower", -140, 620], ["good", 170, 300]],
+  "words": ["DEEPER", "MINE"],
+  "endText": "ELIZA"
+}

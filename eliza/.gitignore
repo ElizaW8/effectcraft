@@ -1,0 +1,4 @@
+build/
+renders/
+local/
+*.bundle.jsx
