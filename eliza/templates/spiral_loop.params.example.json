@@ -1,0 +1,13 @@
+{
+  "orientation": "portrait",
+  "seconds": 8,
+  "fps": 30,
+  "theme": "pink",
+  "arms": 16,
+  "twist": 45,
+  "speed": -150,
+  "wobble": 35,
+  "clearCentre": "auto",
+  "breathe": true,
+  "palette": "purple"
+}
